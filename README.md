@@ -25,5 +25,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o resultado do projeto [aqui](https://culturama-alura-pearl.vercel.app/).
-
+Você pode acessar o resultado do projeto no [Vercel](https://culturama-alura-pearl.vercel.app/).
